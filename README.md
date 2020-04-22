@@ -1,44 +1,44 @@
 # kmille-meta
 Overview 
-- [learning-python](https://github.com/kmille/learning-python - Learning python by coding python
-- [broken-challenge-response](https://github.com/kmille/broken-challenge-response - challenge for the MRMCD 2018 ctf
-- [mrmcd-kipass](https://github.com/kmille/mrmcd-kipass - capture the flag challenge (crypto)
-- [dkim-verify](https://github.com/kmille/dkim-verify - Verifying a DKIM-Signature by hand
-- [investment-academy-downloader](https://github.com/kmille/investment-academy-downloader - Downloader für die Investment Punk Academy
-- [webprogrammierung-mit-flask](https://github.com/kmille/webprogrammierung-mit-flask - einfache python backends schreiben mit python (Jugend hackt)
-- [cryptopals.com-solutions](https://github.com/kmille/cryptopals.com-solutions - solutions for the https://cryptopals.com challenges
-- [offsite-backups](https://github.com/kmille/offsite-backups - scripts I use for my offsite backups
-- [make-the-internet-usable](https://github.com/kmille/make-the-internet-usable - some Tampermonkey scripts
-- [cda-garbage](https://github.com/kmille/cda-garbage - sends you an IRC notification if the garbage will be fetched tomorrow
-- [cloud-backup](https://github.com/kmille/cloud-backup - Simple distributed automated tested free cloud backup with rclone and borg (aka: put your borg backups in da cloud)
-- [unix-socket-proxy](https://github.com/kmille/unix-socket-proxy - Looking into UNIX domains socket traffic (e. g. docker)
-- [blind-sql-injection-playground](https://github.com/kmille/blind-sql-injection-playground - library for exploiting blind SQL injections with xpath (MySQL + sqlite3)
-- [critical-mass-calender-generator](https://github.com/kmille/critical-mass-calender-generator - Some snippets to generate a ical for critical mass events
-- [padding-oracle-playground](https://github.com/kmille/padding-oracle-playground - Playing around with Padding Oracle attack
-- [timetracking](https://github.com/kmille/timetracking - Tracking working hours with nfc tags
-- [working-pulseaudio-over-network](https://github.com/kmille/working-pulseaudio-over-network - Working pulseaudio Configuration for the banana pi
-- [lalala](https://github.com/kmille/lalala - simple crawler for http://usdb.animux.de
-- [PlainSSL](https://github.com/kmille/PlainSSL - Hooking calls to libssl (openssl) to decrypt ssl traffic
-- [android-pwning](https://github.com/kmille/android-pwning - man in the middle stuff and android foo
-- [aldi-talk-parser](https://github.com/kmille/aldi-talk-parser - Parser for the MEIN ALDI-TALK website to get the history of internet volume consumption
-- [notp](https://github.com/kmille/notp - Playing around with one-time-passwords (and yubikey NEO)
-- [invidious-redirect](https://github.com/kmille/invidious-redirect - A (very) small WebExtension to redirect YouTube links to Invidious.
-- [memcat](https://github.com/kmille/memcat - Print core memory of a given a process ID (linux specific)
-- [rusted-in-the-air](https://github.com/kmille/rusted-in-the-air - Find inconsistencies between two systems (for priv esc misconfiguration or overwritten binary in a forensic case)
-- [nfs-systemd-ha](https://github.com/kmille/nfs-systemd-ha - vagrant test environment for mounting a nfs share with systemd instead of /etc/fstabs
-- [IRCme](https://github.com/kmille/IRCme - Simple IRC Notification framework for regular tasks
-- [ingdiba-api](https://github.com/kmille/ingdiba-api - Playing around with the ING DiBa Showcase API (https://developer.ing.com/openbanking/)
-- [deezer-downloader](https://github.com/kmille/deezer-downloader - Download music from Deezer with a nice front end
-- [music-ansible](https://github.com/kmille/music-ansible - Deploy the deezer-downloader with ansible
-- [ansible-role-letsencrypt](https://github.com/kmille/ansible-role-letsencrypt - Ansible role to obtain Let's Encrypt SSL certificates
-- [python-pacman](https://github.com/kmille/python-pacman - Simple Python interface to Arch Linux package manager (pacman)
-- [docker-rompr](https://github.com/kmille/docker-rompr - setup rompr using docker
-- [RompR](https://github.com/kmille/RompR - Web client for Mopidy and MPD
-- [uno](https://github.com/kmille/uno - a web based uno with websockets without flash
-- [oscp](https://github.com/kmille/oscp - Preparation for the oscp exam
-- [simple-bitcoin](https://github.com/kmille/simple-bitcoin - Understanding the mechanics of Bitcoin using Python
-- [docker-compose-ui](https://github.com/kmille/docker-compose-ui - web interface for Docker Compose
-- [jugend-hackt-twitter](https://github.com/kmille/jugend-hackt-twitter - Twitter api examples in python for #jugendhackt
-- [hshltsbch](https://github.com/kmille/hshltsbch - hshltsbch - managing expenses with flask
-- [dotfiles](https://github.com/kmille/dotfiles - my dotfiles
-- [pentest-wiki](https://github.com/kmille/pentest-wiki - pwnig all the (web)things
+- [learning-python](https://github.com/kmille/learning-python) - Learning python by coding python
+- [broken-challenge-response](https://github.com/kmille/broken-challenge-response) - challenge for the MRMCD 2018 ctf
+- [mrmcd-kipass](https://github.com/kmille/mrmcd-kipass) - capture the flag challenge (crypto)
+- [dkim-verify](https://github.com/kmille/dkim-verify) - Verifying a DKIM-Signature by hand
+- [investment-academy-downloader](https://github.com/kmille/investment-academy-downloader) - Downloader für die Investment Punk Academy
+- [webprogrammierung-mit-flask](https://github.com/kmille/webprogrammierung-mit-flask) - einfache python backends schreiben mit python (Jugend hackt)
+- [cryptopals.com-solutions](https://github.com/kmille/cryptopals.com-solutions) - solutions for the https://cryptopals.com challenges
+- [offsite-backups](https://github.com/kmille/offsite-backups) - scripts I use for my offsite backups
+- [make-the-internet-usable](https://github.com/kmille/make-the-internet-usable) - some Tampermonkey scripts
+- [cda-garbage](https://github.com/kmille/cda-garbage) - sends you an IRC notification if the garbage will be fetched tomorrow
+- [cloud-backup](https://github.com/kmille/cloud-backup) - Simple distributed automated tested free cloud backup with rclone and borg (aka: put your borg backups in da cloud)
+- [unix-socket-proxy](https://github.com/kmille/unix-socket-proxy) - Looking into UNIX domains socket traffic (e. g. docker)
+- [blind-sql-injection-playground](https://github.com/kmille/blind-sql-injection-playground) - library for exploiting blind SQL injections with xpath (MySQL + sqlite3)
+- [critical-mass-calender-generator](https://github.com/kmille/critical-mass-calender-generator) - Some snippets to generate a ical for critical mass events
+- [padding-oracle-playground](https://github.com/kmille/padding-oracle-playground) - Playing around with Padding Oracle attack
+- [timetracking](https://github.com/kmille/timetracking) - Tracking working hours with nfc tags
+- [working-pulseaudio-over-network](https://github.com/kmille/working-pulseaudio-over-network) - Working pulseaudio Configuration for the banana pi
+- [lalala](https://github.com/kmille/lalala) - simple crawler for http://usdb.animux.de
+- [PlainSSL](https://github.com/kmille/PlainSSL) - Hooking calls to libssl (openssl) to decrypt ssl traffic
+- [android-pwning](https://github.com/kmille/android-pwning) - man in the middle stuff and android foo
+- [aldi-talk-parser](https://github.com/kmille/aldi-talk-parser) - Parser for the MEIN ALDI-TALK website to get the history of internet volume consumption
+- [notp](https://github.com/kmille/notp) - Playing around with one-time-passwords (and yubikey NEO)
+- [invidious-redirect](https://github.com/kmille/invidious-redirect) - A (very) small WebExtension to redirect YouTube links to Invidious.
+- [memcat](https://github.com/kmille/memcat) - Print core memory of a given a process ID (linux specific)
+- [rusted-in-the-air](https://github.com/kmille/rusted-in-the-air) - Find inconsistencies between two systems (for priv esc misconfiguration or overwritten binary in a forensic case)
+- [nfs-systemd-ha](https://github.com/kmille/nfs-systemd-ha) - vagrant test environment for mounting a nfs share with systemd instead of /etc/fstabs
+- [IRCme](https://github.com/kmille/IRCme) - Simple IRC Notification framework for regular tasks
+- [ingdiba-api](https://github.com/kmille/ingdiba-api) - Playing around with the ING DiBa Showcase API (https://developer.ing.com/openbanking/)
+- [deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
+- [music-ansible](https://github.com/kmille/music-ansible) - Deploy the deezer-downloader with ansible
+- [ansible-role-letsencrypt](https://github.com/kmille/ansible-role-letsencrypt) - Ansible role to obtain Let's Encrypt SSL certificates
+- [python-pacman](https://github.com/kmille/python-pacman) - Simple Python interface to Arch Linux package manager (pacman)
+- [docker-rompr](https://github.com/kmille/docker-rompr) - setup rompr using docker
+- [RompR](https://github.com/kmille/RompR) - Web client for Mopidy and MPD
+- [uno](https://github.com/kmille/uno) - a web based uno with websockets without flash
+- [oscp](https://github.com/kmille/oscp) - Preparation for the oscp exam
+- [simple-bitcoin](https://github.com/kmille/simple-bitcoin) - Understanding the mechanics of Bitcoin using Python
+- [docker-compose-ui](https://github.com/kmille/docker-compose-ui) - web interface for Docker Compose
+- [jugend-hackt-twitter](https://github.com/kmille/jugend-hackt-twitter) - Twitter api examples in python for #jugendhackt
+- [hshltsbch](https://github.com/kmille/hshltsbch) - hshltsbch - managing expenses with flask
+- [dotfiles](https://github.com/kmille/dotfiles) - my dotfiles
+- [pentest-wiki](https://github.com/kmille/pentest-wiki) - pwnig all the (web)things
