@@ -40,5 +40,6 @@ Overview of what I do
 - [offsite-backups](https://github.com/kmille/offsite-backups) - scripts I use for my offsite backups
 - [working-pulseaudio-over-network](https://github.com/kmille/working-pulseaudio-over-network) - Working pulseaudio Configuration for the banana pi
 - [dotfiles](https://github.com/kmille/dotfiles) - my dotfiles
+- [nfs-systemd-ha](https://github.com/kmille/nfs-systemd-ha/tree/master) - vagrant test environment for mounting a nfs share with systemd instead of /etc/fstabs
 - [music-ansible](https://github.com/kmille/music-ansible) - Deploy the deezer-downloader with ansible
 - [nfs-systemd-ha](https://github.com/kmille/nfs-systemd-ha) - vagrant test environment for mounting a nfs share with systemd instead of /etc/fstabs
