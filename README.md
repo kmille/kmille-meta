@@ -29,7 +29,9 @@ Overview of what I do
 - [rusted-in-the-air](https://github.com/kmille/rusted-in-the-air) - Find inconsistencies between two systems (for priv esc misconfiguration or overwritten binary in a forensic case)
 ## CTF challenges
 - [broken-challenge-response](https://github.com/kmille/broken-challenge-response) - challenge for the MRMCD 2018 ctf
-- [mrmcd-kipass](https://github.com/kmille/mrmcd-kipass) - capture the flag challenge (crypto)
+- [Klaus is blind and has no sleep](https://github.com/kmille/klaus-is-blind-and-has-no-sleep/settings) - CTF Challenge. Something with php and a database
+- [mrmcd-kipass](https://github.com/kmille/mrmcd-kipass) - real life ctf challenge with Keepass (crypto)
+- [pacman-api](https://github.com/kmille/pacman-api) - CTF challenge with Arch linux and python-pacman
 
 
 # Linux & Debugging
