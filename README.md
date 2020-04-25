@@ -37,6 +37,7 @@ Overview of what I do
 # Linux & Debugging
 - [dkim-verify](https://github.com/kmille/dkim-verify) - Verifying a DKIM-Signature by hand
 - [notp](https://github.com/kmille/notp) - Playing around with one-time-passwords (and yubikey NEO)
+- [memcat](https://github.com/kmille/memcat) - Print core memory of a given a process ID (linux specific)
 - [cloud-backup](https://github.com/kmille/cloud-backup) - Simple distributed automated tested free cloud backup with rclone and borg (aka: put your borg backups in da cloud)
 - [unix-socket-proxy](https://github.com/kmille/unix-socket-proxy) - Looking into UNIX domains socket traffic (e. g. docker)
 - [offsite-backups](https://github.com/kmille/offsite-backups) - scripts I use for my offsite backups
