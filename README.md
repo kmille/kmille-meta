@@ -17,6 +17,7 @@ Overview of what I do
 - [make-the-internet-usable](https://github.com/kmille/make-the-internet-usable) - some Tampermonkey scripts
 - [jugend-hackt-twitter](https://github.com/kmille/jugend-hackt-twitter) - Twitter api examples in python for #jugendhackt
 - [webprogrammierung-mit-flask](https://github.com/kmille/webprogrammierung-mit-flask) - einfache python backends schreiben mit python (Jugend hackt)
+- [blinkist-downloader](https://github.com/kmille/blinkist-downloader) - Download blinks from Blinkest.com as mp3
 
 # IT-Security
 - [pentest-wiki](https://github.com/kmille/pentest-wiki) - pwnig all the (web)things
