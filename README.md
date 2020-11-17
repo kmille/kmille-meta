@@ -22,31 +22,18 @@ Overview of what I do
 
 # Linux & Debugging
 - [Linux Debugging Cheat Sheet](https://github.com/kmille/linux-debugging) - Tools, Mindset and Code-Snippets to solve Linux related problems
-
 - [linux-accept-queue](https://github.com/kmille/linux-accept-queue) - Linux Networking: How does the Accept Queue work? Hands-on to Cloudflare's wonderful [SYN packet handling in the wild](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/) 
-
 - [dkim-verify](https://github.com/kmille/dkim-verify) - Verifying a DKIM-Signature by hand
-
 - [notp](https://github.com/kmille/notp) - Playing around with one-time-passwords (and yubikey NEO)
-
 - [memcat](https://github.com/kmille/memcat) - Print core memory of a given a process ID (linux specific)
-
 - [managed-hosting-testing](https://github.com/kmille/managed-hosting-testing]) - Manged Hosting HA test environment (vagrant)
-
 - [cloud-backup](https://github.com/kmille/cloud-backup) - Simple distributed automated tested free cloud backup with rclone and borg (aka: put your borg backups in da cloud)
-
 - [unix-socket-proxy](https://github.com/kmille/unix-socket-proxy) - Looking into UNIX domains socket traffic (e. g. docker)
-
 - [offsite-backups](https://github.com/kmille/offsite-backups) - scripts I use for my offsite backups
-
 - [working-pulseaudio-over-network](https://github.com/kmille/working-pulseaudio-over-network) - Working pulseaudio Configuration for the banana pi
-
 - [dotfiles](https://github.com/kmille/dotfiles) - my dotfiles
-
 - [nfs-systemd-ha](https://github.com/kmille/nfs-systemd-ha/tree/master) - vagrant test environment for mounting a nfs share with systemd instead of /etc/fstabs
-
 - [music-ansible](https://github.com/kmille/music-ansible) - Deploy the deezer-downloader with ansible
-
 - [nfs-systemd-ha](https://github.com/kmille/nfs-systemd-ha) - vagrant test environment for mounting a nfs share with systemd instead of /etc/fstabs
 
     
