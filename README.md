@@ -24,6 +24,7 @@ Overview of what I do
 - [Linux Debugging Cheat Sheet](https://github.com/kmille/linux-debugging) - Tools, Mindset and Code-Snippets to solve Linux related problems
 - [linux-accept-queue](https://github.com/kmille/linux-accept-queue) - Linux Networking: How does the Accept Queue work? Hands-on to Cloudflare's wonderful [SYN packet handling in the wild](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/) 
 - [dkim-verify](https://github.com/kmille/dkim-verify) - Verifying a DKIM-Signature by hand
+- [Arch Linux ](https://aur.archlinux.org/packages/?K=kmille&SeB=m) - maintaining some packages for the Arch User Repository
 - [notp](https://github.com/kmille/notp) - Playing around with one-time-passwords (and yubikey NEO)
 - [memcat](https://github.com/kmille/memcat) - Print core memory of a given a process ID (linux specific)
 - [managed-hosting-testing](https://github.com/kmille/managed-hosting-testing]) - Manged Hosting HA test environment (vagrant)
@@ -39,7 +40,7 @@ Overview of what I do
     
 
 # IT-Security
-- [pentest-wiki](https://github.com/kmille/pentest-wiki) - pwnig all the (web)things
+- [pentest-wiki](https://github.com/kmille/pentest-wiki) - pwning all the (web)things
 - [PlainSSL](https://github.com/kmille/PlainSSL) - Hooking calls to libssl (openssl) to decrypt ssl traffic on the fly
 - [blind-sql-injection-playground](https://github.com/kmille/blind-sql-injection-playground) - library for exploiting blind SQL injections with xpath (MySQL + sqlite3)
 - [padding-oracle-playground](https://github.com/kmille/padding-oracle-playground) - Playing around with Padding Oracle attack
